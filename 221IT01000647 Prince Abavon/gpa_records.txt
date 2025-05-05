@@ -1,0 +1,8 @@
+Student: razak
+ID: 1234567
+
+Courses:
+java                  3 credit hours    Grade: A
+gft                   3 credit hours    Grade: A
+
+GPA: 0.00
