@@ -1,0 +1,13 @@
+
+ Students Name: Ama
+ Student ID: 224IT01001245
+ Credit Hours: 19
+ Students courses java
+python
+c++
+networking
+ Students Grades: A
+A
+A
+A
+A
