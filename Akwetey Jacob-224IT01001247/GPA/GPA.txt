@@ -1,0 +1,9 @@
+
+ Name: jake
+ ID: 223443
+ CREDIT : 223443
+ MATHEMATICS: A
+ Your PHYSICS: A
+ Your ENGLISH: A
+ Your JAVA: A
+ Your PYTHON: A
