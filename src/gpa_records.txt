@@ -1,0 +1,130 @@
+Student Name: Yamoah Joseph
+Student ID: 224CS01001324
+
+Courses Details:
+Course: Mathematics, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: PE, Credit Hours: 3.0, Grade: C+, Grade Points: 2.5
+Course: Chemistry, Credit Hours: 2.0, Grade: D, Grade Points: 1.5
+Course: Physics, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Java, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+
+GPA: 3.15
+--------------------------------------------------
+Database: Under Construction.
+Student Name: John Nimo
+Student ID: 223IT00101823
+
+Courses Details:
+Course: PE, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Science, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Chemistry, Credit Hours: 2.0, Grade: C+, Grade Points: 2.5
+Course: Physics, Credit Hours: 1.0, Grade: D, Grade Points: 1.5
+Course: Java, Credit Hours: 3.0, Grade: B, Grade Points: 3.0
+
+GPA: 3.29
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Fred Kelly
+Student ID: 22409912622
+
+Courses Details:
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Science, Credit Hours: 2.0, Grade: B+, Grade Points: 3.5
+Course: Chemistry, Credit Hours: 3.0, Grade: C, Grade Points: 2.0
+Course: PE, Credit Hours: 2.0, Grade: B, Grade Points: 3.0
+Course: Java, Credit Hours: 1.0, Grade: A, Grade Points: 4.0
+
+GPA: 3.18
+--------------------------------------------------
+Database: Under Construction.
+Student Name: John Frankine
+Student ID: 224CS01001298
+
+Courses Details:
+Course: Mathematics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Science, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Java, Credit Hours: 3.0, Grade: B, Grade Points: 3.0
+Course: PE, Credit Hours: 1.0, Grade: B, Grade Points: 3.0
+
+GPA: 3.67
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Yamoah Joseph Nyarko
+Student ID: 23390219922
+
+Courses Details:
+Course: Mathematics, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: French, Credit Hours: 3.0, Grade: B, Grade Points: 3.0
+Course: PE, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.35
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Samson Tudu
+Student ID: 121IT98CS0901
+
+Courses Details:
+Course: PE, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Mathematics, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: French, Credit Hours: 1.0, Grade: C, Grade Points: 2.0
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.32
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Samson Tudu
+Student ID: 121IT98CS0901
+
+Courses Details:
+Course: PE, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Mathematics, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: French, Credit Hours: 1.0, Grade: C, Grade Points: 2.0
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.32
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Samson Tudu
+Student ID: 121IT98CS0901
+
+Courses Details:
+Course: PE, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: Mathematics, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: French, Credit Hours: 1.0, Grade: C, Grade Points: 2.0
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.32
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Samson Tudu
+Student ID: 121IT98CS0901
+
+Courses Details:
+Course: PE, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: 5565, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: French, Credit Hours: 1.0, Grade: C, Grade Points: 2.0
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.32
+--------------------------------------------------
+Database: Under Construction.
+Student Name: Samson Tudu
+Student ID: 121IT98CS0901
+
+Courses Details:
+Course: PE, Credit Hours: 2.0, Grade: A, Grade Points: 4.0
+Course: Physics, Credit Hours: 3.0, Grade: A, Grade Points: 4.0
+Course: 5565, Credit Hours: 3.0, Grade: B+, Grade Points: 3.5
+Course: French, Credit Hours: 1.0, Grade: C, Grade Points: 2.0
+Course: Java, Credit Hours: 2.0, Grade: C, Grade Points: 2.0
+
+GPA: 3.32
+--------------------------------------------------
+Database: Under Construction.
