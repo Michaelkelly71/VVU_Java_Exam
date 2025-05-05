@@ -1,0 +1,23 @@
+STUDENT RECORD
+NAME: nsjahsjf
+ID: 2324djifdija399
+Gender: Male
+
+COURSES:
+maht (Grade: A, Credits: 3.0)
+
+FINAL GPA: 4.00
+--------------------------------------------------
+Database: Under Construction.
+STUDENT RECORD
+NAME: kelly
+ID: 22301022111
+Gender: Male
+
+COURSES:
+Java (Grade: A, Credits: 3.0)
+SNA (Grade: C, Credits: 3.0)
+
+FINAL GPA: 3.00
+--------------------------------------------------
+Database: Under Construction.
