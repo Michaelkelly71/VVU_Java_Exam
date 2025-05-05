@@ -1,0 +1,12 @@
+Name: clifford, ID: 21, GPA: 24
+Name: clifford, Student ID: 223cs02001031
+Name: CLIFFORD, Student ID: CLIFFORD
+Course: JAVA, Grade: A, Credit Hours: 3
+Course: ENGLIDH, Grade: A, Credit Hours: 3
+Course: MATHS, Grade: A, Credit Hours: 5
+Course: SCIENCE, Grade: A, Credit Hours: 3
+Course: PHYSICS, Grade: A, Credit Hours: 3
+Name: clifford awoonor, Student ID: 223cs02001031
+Name: login, Student ID: 223cs02001031
+Course: Java, Grade: B, Credit Hours: 3
+Name: clifford, Student ID: clifford

@@ -1,0 +1,17 @@
+{
+  "name": "gpa-records-project",
+  "version": "1.0.0",
+  "description": "A project to manage GPA records using a text file.",
+  "main": "src/connectionPage.ts",
+  "scripts": {
+    "start": "ts-node src/connectionPage.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
