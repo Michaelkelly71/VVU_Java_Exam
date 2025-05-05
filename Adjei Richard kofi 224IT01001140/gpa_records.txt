@@ -1,0 +1,35 @@
+==================================================
+STUDENT RECORD
+NAME: rich
+ID: 2253544
+Gender: Male
+
+COURSES (5):
+english                          2.0 credits     A (4.0 points)
+science                          2.0 credits     B (3.0 points)
+social                           3.0 credits     A (4.0 points)
+maths                            3.0 credits     A (4.0 points)
+ict                              3.0 credits     B (3.0 points)
+
+FINAL GPA: 3.62
+--------------------------------------------------
+Database: Under Construction.
+Saved at: Mon May 05 11:58:46 GMT 2025
+==================================================
+STUDENT RECORD
+NAME: rich
+ID: 2253544
+Gender: Male
+
+COURSES (6):
+english                          2.0 credits     A (4.0 points)
+science                          2.0 credits     B (3.0 points)
+social                           3.0 credits     A (4.0 points)
+maths                            3.0 credits     A (4.0 points)
+ict                              3.0 credits     B (3.0 points)
+twi                              3.0 credits     A (4.0 points)
+
+FINAL GPA: 3.69
+--------------------------------------------------
+Database: Under Construction.
+Saved at: Mon May 05 12:01:36 GMT 2025
